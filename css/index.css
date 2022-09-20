@@ -1,0 +1,168 @@
+body {
+  font-family: "Barlow", sans-serif;
+  background-color: #dedede;
+  margin: 0px;
+}
+
+h1 {
+  font-family: "Bebas Neue", cursive;
+  color: #00069c;
+  text-align: center;
+  line-height: 85%;
+}
+
+p {
+  color: #888888;
+  font-weight: 700;
+}
+
+.servicios {
+  text-transform: uppercase;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 0px;
+  color: #9f9f9f;
+}
+
+.contact {
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.btn {
+  border: none;
+  background-color: #25d366;
+  color: white;
+  border-radius: 17px;
+  padding: 10px 17px;
+  text-transform: uppercase;
+  margin-top: 10%;
+  font-size: 1.3rem;
+  width: 100%;
+  box-shadow: 1px 8px 44px -20px rgba(0, 0, 0, 0.56);
+  -webkit-box-shadow: 1px 8px 44px -20px rgba(0, 0, 0, 0.56);
+  -moz-box-shadow: 1px 8px 44px -20px rgba(0, 0, 0, 0.56);
+}
+
+.btn:hover {
+  background-color: #1ca850;
+  transition-duration: 600ms;
+  cursor: pointer;
+}
+
+.btn:visited {
+  color: white;
+}
+
+.sistemas {
+  font-size: 106px;
+  margin-bottom: 0;
+}
+
+.sistemas-b {
+  font-size: 75px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.section-a {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 800px;
+}
+.serv-container {
+  justify-content: space-between;
+  display: flex;
+}
+
+.layout {
+  height: 600px;
+  margin-top: 3.5rem;
+}
+
+.tittle {
+  font-size: 6rem;
+  margin-top: 110px;
+}
+
+.paragraph {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1.7rem;
+  margin-top: 30px;
+  width: 50%;
+}
+
+.contact {
+  text-align: center;
+  line-height: 1px;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.img {
+  width: 40px;
+}
+
+.circles {
+  background-color: #00057e;
+  border-radius: 50%;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.circles:hover {
+  transform: scale(1.05);
+  box-shadow: -2px 8px 30px 3px rgba(0, 0, 0, 0.33);
+  -webkit-box-shadow: -2px 8px 30px 3px rgba(0, 0, 0, 0.33);
+  -moz-box-shadow: -2px 8px 30px 3px rgba(0, 0, 0, 0.33);
+  transition: 0.5s;
+}
+
+.margintop {
+  padding-top: 50px;
+}
+
+footer {
+  padding: 30px;
+  background-color: #cccccc;
+}
+
+footer p {
+  font-size: 1.2rem;
+  text-align: center;
+  color: rgb(78, 78, 78);
+}
+
+footer a {
+  color: #4248ff;
+}
+.logo {
+  max-width: 100%;
+}
+
+.section-d {
+  height: auto;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+.margin-t {
+  margin-top: 0px;
+}
+
+.margin-b {
+  margin-bottom: 0px;
+}

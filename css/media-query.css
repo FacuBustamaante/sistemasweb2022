@@ -1,0 +1,31 @@
+@media (max-width: 500px) {
+  body {
+    margin: 0px;
+  }
+
+  .section-a {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .container {
+    max-width: 30px;
+  }
+
+  .tittle {
+    font-size: 16vw;
+  }
+
+  .paragraph {
+    width: 75%;
+  }
+
+  .layout {
+    height: 30%;
+  }
+
+  .icons {
+    padding-bottom: 30px;
+  }
+}
